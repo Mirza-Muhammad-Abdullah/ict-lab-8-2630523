@@ -1,1 +1,2 @@
 Git basics
+Learned add, commit, and push commands
